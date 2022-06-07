@@ -1,0 +1,30 @@
+{
+  "category": [
+    "All News",
+    "business",
+    "entertainment",
+    "general",
+    "health",
+    "science",
+    "sports",
+    "technology"
+  ],
+  "country": [
+      {
+        "id": "us",
+        "name": "United States"
+      },
+    {
+      "id": "ar",
+      "name": "Argentina"
+    },
+    {
+      "id": "sa",
+      "name": "Saudi Arabia"
+    },
+    {
+      "id": "ae",
+      "name": "UAE"
+    }
+  ]
+}
